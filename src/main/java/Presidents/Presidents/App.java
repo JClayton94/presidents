@@ -9,5 +9,10 @@ public class App
     	
     	input.reader();
     	
+    	
+    	System.out.println(input.getPresidents().get(0).extractYear("doB"));
+    	
+    	
+    	
     }
 }
